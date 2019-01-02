@@ -1,0 +1,7 @@
+<DOCTYPE html>
+<html lang="fr">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="stylesheet" href="styles/style_0.css" />
+		<title>Page en HTML5</title>
+	</head>
